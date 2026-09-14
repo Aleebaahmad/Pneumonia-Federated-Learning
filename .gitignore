@@ -1,0 +1,16 @@
+# Medical image datasets
+X-ray/
+federated_clients/
+federated_clients_noniid/
+federated_clients_noniid_v2/
+
+# Trained model files
+*.keras
+
+# Temporary / backup files
+*_before_paths.ipynb
+*_clean.ipynb
+.ipynb_checkpoints/
+
+Pneumonia.ipynb
+clean_github_notebook.py
