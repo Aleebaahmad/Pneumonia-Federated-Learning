@@ -8,7 +8,7 @@ Centralized medical AI requires collecting patient data in a common location, wh
 
 The study compares centralized training with **IID and Non-IID Federated Averaging (FedAvg)** and evaluates how client-level data heterogeneity affects pneumonia detection performance.
 
-## Research Objectives
+## Objectives
 
 * Investigate privacy-preserving collaborative learning for pneumonia detection.
 * Evaluate the impact of **IID vs. Non-IID data distributions** on federated performance.
@@ -107,7 +107,7 @@ Pneumonia-Federated-Learning/
 
 Raw datasets and trained `.keras` model artifacts are excluded from this repository to keep the repository lightweight.
 
-## Key Research Contribution
+## Key Contribution
 
 This work focuses on the intersection of **medical AI, federated learning, data heterogeneity, and class imbalance**. Rather than evaluating pneumonia detection only under centralized assumptions, the study examines how decentralized and heterogeneous client distributions influence model behavior and diagnostic performance.
 
